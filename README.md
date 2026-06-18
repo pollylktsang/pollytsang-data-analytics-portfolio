@@ -5,13 +5,13 @@ Welcome to my Data Analytics portfolio. This repository showcases projects that 
 
 Featured Projects:
 
-Solar Adoption Analysis Across Australia for ARENA
+1. Solar Adoption Analysis Across Australia for ARENA
 
 A national-level analysis of residential solar adoption trends across Australian states and territories. This project explores regional differences in solar uptake and identifies areas with strong adoption patterns.
 
 Skills: Data Cleaning, Exploratory Data Analysis, Data Visualization, Python
 
-Solar Adoption Anyalysis in Victoria for ARENA
+2. Solar Adoption Anyalysis in Victoria for ARENA
 
 A postcode-level analysis investigating the factors that influence residential solar adoption in Victoria. The project combines solar installation data, housing market data, and Census dwelling structure data to test hypotheses and uncover key drivers of solar uptake.
 
