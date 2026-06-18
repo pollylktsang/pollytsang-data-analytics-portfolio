@@ -1,33 +1,48 @@
 # pollytsang-data-analytics-portfolio
-Data Analytics portfolio showcasing solar adoption analysis projects using Python, statistical testing, and data visualisation.
 
-Welcome to my Data Analytics portfolio. This repository showcases projects that apply data cleaning, statistical analysis, data visualization, and business insight generation using real-world datasets.
+Aspiring Data Analyst / Business Analyst with a background in business management and experience in data-driven decision making, analytics, and insight generation.
 
-Featured Projects:
+I enjoy transforming complex datasets into clear, actionable insights that support business strategy and policy decisions.
 
-* Solar Adoption Analysis Across Australia for ARENA
+What I Do:
 
-A national-level analysis of residential solar adoption trends across Australian states and territories. This project explores regional differences in solar uptake and identifies areas with strong adoption patterns.
-
-Skills: Data Cleaning, Exploratory Data Analysis, Data Visualization, Python
-
-* Solar Adoption Anyalysis in Victoria for ARENA
-
-A postcode-level analysis investigating the factors that influence residential solar adoption in Victoria. The project combines solar installation data, housing market data, and Census dwelling structure data to test hypotheses and uncover key drivers of solar uptake.
-
-Skills: Data Integration, Statistical Analysis, Hypothesis Testing, Data Visualization, Python
+- Data analysis and visualization
+- Business problem framing and requirements analysis
+- Statistical analysis and hypothesis testing
+- Data cleaning and integration across multiple sources
+- Translating data insights into business recommendations
 
 Technical Skills:
 
-Python |
-Pandas |
-NumPy |
-Matplotlib |
-Data Cleaning |
-Statistical Analysis |
-Hypothesis Testing |
-Data Visualization
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Data Visualization
+- Statistical Analysis
+- GeoPandas
+- Data Cleaning & Transformation
+- Business & Analytical Strengths
+- Business requirements analysis
+- Problem solving and structured thinking
+- Stakeholder-focused insight generation
+- Evidence-based decision making
+- Translating data into business recommendations
 
-About Me:
+Featured Projects:
 
-Aspiring Data Analyst with experience in transforming raw data into actionable insights through data analysis, visualization, and statistical techniques.
+- 🌞 Solar Adoption Drivers in Victoria
+
+Analysis of key factors influencing solar adoption using solar installation, Census, and property market data. Includes hypothesis testing, geospatial analysis, and business recommendations for renewable energy stakeholders.
+
+- 🌞 Solar Adoption Analysis Across Australia
+
+Exploratory analysis of solar adoption trends across Australian states and territories using ARENA data.
+
+Education / Background: 
+
+Business Management degree
+Business Analyst training (RMIT)
+Data Analytics projects using Python
+
+Connect with Me: 
+LinkedIn: www.linkedin.com/in/pollylktsang
+Email: pollylktsang@gmail.com
