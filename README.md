@@ -19,13 +19,13 @@ Skills: Data Integration, Statistical Analysis, Hypothesis Testing, Data Visuali
 
 Technical Skills:
 
-Python
-Pandas
-NumPy
-Matplotlib
-Data Cleaning
-Statistical Analysis
-Hypothesis Testing
+Python |
+Pandas |
+NumPy |
+Matplotlib |
+Data Cleaning |
+Statistical Analysis |
+Hypothesis Testing |
 Data Visualization
 
 About Me:
