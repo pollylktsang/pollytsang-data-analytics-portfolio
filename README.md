@@ -3,10 +3,10 @@ Data Analytics portfolio showcasing solar adoption analysis projects using Pytho
 
 Featured Projects
 
-1. Solar Adoption Analysis Across Australia
+1. Solar Adoption Analysis Across Australia for ARENA
    → National-level trend analysis
 
-2. Solar Adoption Drivers in Victoria
+2. Solar Adoption Drivers in Victoria for ARENA
    → Statistical analysis using solar,
      housing prices and Census data
 
