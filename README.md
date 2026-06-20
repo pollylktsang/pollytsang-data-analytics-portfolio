@@ -2,7 +2,7 @@
 
 Aspiring Data Analyst / Business Analyst with a background in business management and experience in data-driven decision making, analytics, and insight generation.
 
-I enjoy transforming complex datasets into clear, actionable insights that support business strategy and policy decisions.
+Hi, I'm Polly! I enjoy transforming complex datasets into clear, actionable insights that support business strategy and policy decisions.
 
 What I Do:
 
@@ -32,6 +32,9 @@ Featured Projects:
 - 🌞 Solar Adoption Drivers in Victoria
 
 Analysis of key factors influencing solar adoption using solar installation, Census, and property market data. Includes hypothesis testing, geospatial analysis, and business recommendations for renewable energy stakeholders.
+
+Link: https://pollylktsang.github.io/solar-adoption-victoria-ARENA/
+
 
 - 🌞 Solar Adoption Analysis Across Australia
 
