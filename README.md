@@ -40,6 +40,8 @@ Link: https://pollylktsang.github.io/solar-adoption-victoria-ARENA/
 
 Exploratory analysis of solar adoption trends across Australian states and territories using ARENA data.
 
+Link: https://pollylktsang.github.io/solar-adoption-australia-ARENA/
+
 Education / Background: 
 
 Business Management degree
